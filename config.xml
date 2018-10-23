@@ -53,6 +53,7 @@ Leon Kulikowski
 		<feature name="http://api.phonegap.com/1.0/device"/>
 <!--		<gap:plugin name="org.apache.cordova.camera"  />-->
 <!--		<gap:plugin name="org.apache.cordova.console"  />-->
+<!--
 		<gap:plugin name="org.apache.cordova.contacts"  />
 		<gap:plugin name="org.apache.cordova.device"  />
 		<gap:plugin name="org.apache.cordova.device-motion"  />
@@ -67,6 +68,7 @@ Leon Kulikowski
 		<gap:plugin name="org.apache.cordova.network-information"  />
 		<gap:plugin name="org.apache.cordova.splashscreen"  />
 		<gap:plugin name="org.apache.cordova.vibration"  />
+-->
 		<icon src="img/icons_ios/Icon.png" gap:platform="ios" width="57" height="57" />
 		<icon src="img/icons_ios/Icon-72.png" gap:platform="ios" width="72" height="72" />
 		<icon src="img/icons_ios/Icon@2x.png" gap:platform="ios" width="114" height="114" />
