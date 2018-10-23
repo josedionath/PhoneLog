@@ -2,15 +2,15 @@
 	<widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
 		id        = "com.dwb.phonelog"
-		versionCode="1.3.4e"
-		version   = "1.3.4">
+		versionCode="35200"
+		version   = "3.5.2">
 		<name>Phone Log</name>
 		<description>
 Aplicativo com os principais features do Phonegap, para estudo.		</description>
 		<author href="http://leonkulik.com" email="leon@leonkulik.com">
 Leon Kulikowski
 		</author>
-		<preference name="phonegap-version" value="3.3.0" />
+		<preference name="phonegap-version" value="cli-8.0.0" />
 		<preference name="orientation" value="default" />
 		<preference name="fullscreen" value="true" />
 		<preference name="target-device" value="universal" />
